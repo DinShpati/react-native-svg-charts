@@ -36,13 +36,13 @@ Other than the above dependency this library uses pure javascript and supports b
 Then you can install the library using either yarn:
 
 ```
-yarn add react-native-svg-charts
+yarn add DinShpati/react-native-svg-charts
 ```
 
 or npm:
 
 ```
-npm install --save react-native-svg-charts
+npm install --save DinShpati/react-native-svg-charts
 ```
 
 Now you're good to go!
